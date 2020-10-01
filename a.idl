@@ -1,0 +1,6 @@
+struct A{
+    uint a;
+    uint b;
+    uint c;
+    char d[50];
+}

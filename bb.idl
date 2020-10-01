@@ -1,0 +1,14 @@
+struct A{
+    unsigned uint a;
+    uint b;
+    uint c;
+    char d[50];
+};
+struct B{
+    uint a;
+    uint b;
+    uint c;
+    char d[50];
+};
+1
+1
